@@ -3,12 +3,6 @@
 #include <iostream>
 using namespace std;
 
-struct calc{
-    int num, num2;
-    int result;
-    char operation;
-}; 
-
 int function(int a, int b, char d){
     int c;
 
